@@ -6,7 +6,7 @@ from faker import Faker
 fake = Faker()
 
 # Define the number of rows
-num_rows = 110
+num_rows = 120
 
 # Generate data
 data = {
